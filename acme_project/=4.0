@@ -1,0 +1,14 @@
+Requirement already satisfied: django-debug-toolbar in d:\dev\acme_project\venv\lib\site-packages (3.8.1)
+Collecting django-debug-toolbar
+  Downloading django_debug_toolbar-6.1.0-py3-none-any.whl.metadata (4.5 kB)
+Requirement already satisfied: django>=4.2.9 in d:\dev\acme_project\venv\lib\site-packages (from django-debug-toolbar) (5.2.7)
+Requirement already satisfied: sqlparse>=0.2 in d:\dev\acme_project\venv\lib\site-packages (from django-debug-toolbar) (0.5.3)
+Requirement already satisfied: asgiref>=3.8.1 in d:\dev\acme_project\venv\lib\site-packages (from django>=4.2.9->django-debug-toolbar) (3.10.0)
+Requirement already satisfied: tzdata in d:\dev\acme_project\venv\lib\site-packages (from django>=4.2.9->django-debug-toolbar) (2025.2)
+Downloading django_debug_toolbar-6.1.0-py3-none-any.whl (269 kB)
+Installing collected packages: django-debug-toolbar
+  Attempting uninstall: django-debug-toolbar
+    Found existing installation: django_debug_toolbar 3.8.1
+    Uninstalling django_debug_toolbar-3.8.1:
+      Successfully uninstalled django_debug_toolbar-3.8.1
+Successfully installed django-debug-toolbar-6.1.0
